@@ -1,4 +1,4 @@
-# IteliFit — Fitness Coaching App
+# InteliFit — Fitness Coaching App
 
 Prototipo funcional de una aplicación móvil de entrenamiento personal con coaching asistido por IA, desarrollado como proyecto del curso de Experiencia de Usuario (UX) — USIL, Facultad de Ingeniería e Inteligencia Artificial.
 
