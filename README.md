@@ -67,4 +67,3 @@ Este es un prototipo de **frontend únicamente**, sin backend real. Las acciones
 
 ## Origen del proyecto
 
-Diseño original creado con [Figma Make](https://www.figma.com/design/J9o6XuejWfDOVvKtDAlYbJ/Fitness-Coaching-App-Wireframes) y desarrollado en código para fines académicos.
