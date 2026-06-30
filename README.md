@@ -64,6 +64,3 @@ src/
 ## Notas del prototipo
 
 Este es un prototipo de **frontend únicamente**, sin backend real. Las acciones como reservar una clase, registrarse o procesar un pago están simuladas con estado local de React (\`useState\`) y no persisten más allá de la sesión del navegador, salvo los datos no sensibles que se guardan temporalmente en \`localStorage\` para mejorar la experiencia ante recargas accidentales.
-
-## Origen del proyecto
-
