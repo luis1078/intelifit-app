@@ -1,6 +1,6 @@
-# InteliFit — Fitness Coaching App
+# InteliFit - Fitness Coaching App
 
-Prototipo funcional de una aplicación móvil de entrenamiento personal con coaching asistido por IA, desarrollado como proyecto del curso de Experiencia de Usuario (UX) — USIL, Facultad de Ingeniería e Inteligencia Artificial.
+Prototipo funcional de una aplicación móvil de entrenamiento personal con coaching asistido por IA, desarrollado como proyecto del curso de Experiencia de Usuario (UX) - USIL, Facultad de Ingeniería e Inteligencia Artificial.
 
 El proyecto está basado en el caso de estudio de **Steffany Solano**, entrenadora personal con modalidad híbrida (presencial y online), y busca resolver un problema real: que las usuarias puedan interpretar sus evaluaciones físicas, hacer seguimiento de su progreso y gestionar sus reservas de clases sin depender de asistencia constante de la entrenadora.
 
